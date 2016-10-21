@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "postgres": "postgres://postgres:@localhost:5432/poker",
+  "public": "../public/",
+  "auth": {
+    "idField": "id",
+    "token": {
+      "secret": "LELYib8Kev28hka/AlbsFW/V8Qmo51wO2ZLtMI36RbtRGfnGrT/9U+Woy2EJpAwTM5Zj5Qo5dbzgDjsDMiuwpQ=="
+    },
+    "local": {}
+  }
+}
